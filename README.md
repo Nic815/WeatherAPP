@@ -25,7 +25,8 @@ The app demonstrates AI-assisted development, clean architecture, and a premium 
 Email and password based authentication using Supabase.  
 The screen uses a clean glass-style UI with a focus on simplicity and clarity.
 
-![Login Screen](<img width="585" height="1266" alt="IMG_5608" src="https://github.com/user-attachments/assets/0d3390cb-4499-441f-9974-5154c27efc4d" />)
+![Login Screen](https://github.com/user-attachments/assets/0d3390cb-4499-441f-9974-5154c27efc4d)
+
 
 
 ---
