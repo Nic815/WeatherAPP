@@ -11,7 +11,7 @@ final class CitySearchService {
 
     static let shared = CitySearchService()
 
-    // 🔴 HARD-CODED FOR SIMPLICITY (TEMPORARY)
+ 
     private let apiKey = "129743615315726f6cf1696dabde71f9"
 
     func searchCity(query: String) async throws -> [City] {
