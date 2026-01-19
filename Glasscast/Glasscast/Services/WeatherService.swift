@@ -11,7 +11,7 @@ final class WeatherService {
 
     static let shared = WeatherService()
 
-    // 🔴 HARD-CODED FOR SIMPLICITY (TEMPORARY)
+
     private let apiKey = "129743615315726f6cf1696dabde71f9"
 
     func fetchWeather(lat: Double, lon: Double) async throws -> WeatherResponse {
