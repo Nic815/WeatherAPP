@@ -12,10 +12,10 @@ struct CitySearchView: View {
     @StateObject private var vm = CitySearchViewModel()
     @Environment(\.dismiss) private var dismiss
 
-    // ✅ Callback to HomeView
+  
     let onCitySelected: (City) -> Void
 
-    // ✅ Remove duplicate city names
+ 
     private var uniqueResults: [City] {
         var seen = Set<String>()
         return vm.results.filter {
@@ -66,8 +66,8 @@ struct CitySearchView: View {
                             Button {
                                 Task {
                                     await vm.saveCity(city)
-                                    onCitySelected(city)   // ✅ send city back
-                                    dismiss()              // ✅ go back
+                                    onCitySelected(city)   
+                                    dismiss()             
                                 }
                             } label: {
                                 HStack {
