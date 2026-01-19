@@ -40,7 +40,12 @@ The screen uses a clean glass-style UI with a focus on simplicity and clarity.
 Displays the current weather based on the user’s location, including temperature, weather condition, and a 5-day forecast.  
 The app title dynamically updates to show the city name.
 
-![Home Screen](<img width="585" height="1266" alt="IMG_5604" src="https://github.com/user-attachments/assets/c74db84d-2c13-4e05-9365-67d5a41f84ba" />)
+<img
+  src="https://github.com/user-attachments/assets/c74db84d-2c13-4e05-9365-67d5a41f84ba"
+  alt="Home Screen"
+  width="300"
+/>
+
 
 
 ---
@@ -50,7 +55,11 @@ Allows users to search for cities using the OpenWeather Geo API.
 Duplicate city results are handled properly, and selecting a city loads its weather on the home screen.
 
 
-![City Search](<img width="585" height="1266" alt="IMG_5606" src="https://github.com/user-attachments/assets/05fc2a2f-83f1-49eb-8e50-55092e871342" />)
+<img
+  src="https://github.com/user-attachments/assets/05fc2a2f-83f1-49eb-8e50-55092e871342"
+  alt="City Search"
+  width="300"
+/>
 
 
 
@@ -60,8 +69,11 @@ Duplicate city results are handled properly, and selecting a city loads its weat
 Shows the list of saved favorite cities.  
 Selecting a city instantly navigates back to the home screen and displays the current weather.
 
-![Favorites](<img width="585" height="1266" alt="IMG_5607" src="https://github.com/user-attachments/assets/118222bb-0f11-4b84-8edd-f6cae1fb8dda" />
-)
+<img
+  src="https://github.com/user-attachments/assets/118222bb-0f11-4b84-8edd-f6cae1fb8dda"
+  alt="Favorites"
+  width="300"
+/>
 
 ---
 
@@ -69,8 +81,11 @@ Selecting a city instantly navigates back to the home screen and displays the cu
 Users can change the temperature unit (°C / °F) and sign out.  
 The screen follows the same premium glass-style design language as the rest of the app.
 
-![Settings](<img width="585" height="1266" alt="IMG_5605" src="https://github.com/user-attachments/assets/8070fa5b-9fc1-421c-a3aa-b6dee4c02ce0" />
-)
+<img
+  src="https://github.com/user-attachments/assets/8070fa5b-9fc1-421c-a3aa-b6dee4c02ce0"
+  alt="Settings"
+  width="300"
+/>
 
 ---
 
